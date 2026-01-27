@@ -1,6 +1,7 @@
 # Classroom Pilot ETL + Equity Analysis (PDF → OCR → Lakehouse → BI)
 
 End-to-end pipeline to extract handwritten Chinese questionnaire responses from PDFs, validate/clean them, load into Databricks, and analyze **experience lift** and **equity gap reduction** between under-resourced and resourced schools.
+<img width="910" height="483" alt="Screenshot 2026-01-27 at 11 33 08" src="https://github.com/user-attachments/assets/fbb19fc3-1a08-4128-a2d9-2f5cdaad366c" />
 
 ## Architecture
 
